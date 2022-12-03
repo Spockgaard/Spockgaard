@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Spockgaard
+- 👋 Hi, I am Mateus Lima - @Spockgaard
 - ✨ I have a degree in Physics
 - 🌱 and I am currently learning Data Science
